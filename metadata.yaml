@@ -1,0 +1,28 @@
+_repo: The-Land-of-Nome--13-A-narrative-sketch-of-the-rush-to-our-Bering-Sea-gold-fields-the-country__31921
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKee, Lanier
+    gutenberg_agent_id: '35556'
+    url: http://www.gutenberg.org/2009/agents/35556
+description: ''
+gutenberg_issued: '2010-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nome, Cape (Alaska : Cape) -- History'
+- !lcsh 'McKenzie, Alexander, 1851-1922'
+- !lcc 'F850.5'
+- !lcsh 'Nome, Cape (Alaska : Cape) -- Description and travel'
+- !lcsh 'Alaska Gold Mines Company'
+title: "The Land of Nome\r\nA narrative sketch of the rush to our Bering Sea gold-fields,\
+  \ the country, its mines and its people, and the history of a great conspiracy (1900-1901)"
+url: http://www.gutenberg.org/ebooks/31921
