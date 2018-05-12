@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35556'
     url: http://www.gutenberg.org/2009/agents/35556
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31921#The-Land-of-Nome--13-A-narrative-sketch-of-the-rush-to-our-Bering-Sea-gold-fields-the-country_
 gutenberg_issued: '2010-04-08'
 gutenberg_type: Text
 identifiers:
